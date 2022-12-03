@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'nasagovement'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B605F895378149ED9656B14D0D6CCA6F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8870BC18172548FDB6EA4F1612CF39B5 }}
           package: .
